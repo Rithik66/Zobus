@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zobus">
+    <output-path>D:/ESSENTIALS/AdventNetMickeyLite/AdventNet/MickeyLite/lib</output-path>
+    <root id="archive" name="zobus.jar">
+      <element id="module-output" name="zobus" />
+    </root>
+  </artifact>
+</component>
